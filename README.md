@@ -13,7 +13,7 @@
 I'm a fullstack developer who loves turning complex problems into elegant solutions. Whether it's crafting a clean API or polishing a frontend, I enjoy being involved in every layer of the stack.
 
 - 🔭 Currently working on: Personal projects & freelance apps
-- 🌱 Currently learning: gRPC, Microservices, Clean Architecture
+- 🌱 Currently learning: Redis, Microservices, Clean Architecture
 - ⚡ Fun fact: I debug better with music 🎧
 - 📫 Let's connect:  
   [![Instagram](https://img.shields.io/badge/Instagram-fadliaqil__-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/fadliaqil_)  
