@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Fadli Aqil
 
 🎯 **Fullstack Developer**  
-💻 TypeScript | PHP | PostgreSQL | MySQL  
+💻 TypeScript | PHP | PostgreSQL | MySQL | C# | Python
 🚀 Passionate about building scalable web applications
 
 ---
